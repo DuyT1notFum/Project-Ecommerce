@@ -1,0 +1,51 @@
+@import url("https://fonts.cdnfonts.com/css/general-sans");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: "circular-wed";
+    font-weight: 300;
+    @apply bg-blue-50;
+}
+html{
+  scroll-behavior:smooth;
+}
+
+
+.scrollbarCustom::-webkit-scrollbar{
+  width: 10px;
+  @apply bg-slate-100
+}
+.scrollbarCustom::-webkit-scrollbar-thumb{
+  @apply bg-blue-100 rounded-full
+}
+
+@layer base {
+    @font-face {
+      font-family: "circular-wed";
+      src: url("/fonts/circularweb-book.woff2") format("woff2");
+    }
+  
+    @font-face {
+      font-family: "general";
+      src: url("/fonts/general.woff2") format("woff2");
+    }
+  
+    @font-face {
+      font-family: "robert-medium";
+      src: url("/fonts/robert-medium.woff2") format("woff2");
+    }
+  
+    @font-face {
+      font-family: "robert-regular";
+      src: url("/fonts/robert-regular.woff2") format("woff2");
+    }
+  
+    @font-face {
+      font-family: "zentry";
+      src: url("/fonts/zentry-regular.woff2") format("woff2");
+    }
+  }
