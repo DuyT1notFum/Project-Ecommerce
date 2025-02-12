@@ -9,7 +9,7 @@ Xây dựng một website thương mại điện tử hoàn chỉnh sử dụng 
 
 ![Demo GIF](https://github.com/DuyT1notFum/Ecommerce/blob/main/demo-1.gif)
 
-Do chưa xác thực domains trên resend nên em dùng tài khoản email đã đăng kí trên resend để lấy OTP luôn.
+Do chưa xác thực domains trên resend nên em dùng tài khoản email đã đăng kí trên resend để lấy OTP luôn (dòng 49 và 305 trong user.controller.js).
 
 <h1><b>Demo 2</b></h1>
 
