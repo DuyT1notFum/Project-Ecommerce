@@ -8,6 +8,7 @@ Xây dựng một website thương mại điện tử hoàn chỉnh sử dụng 
 <h1><b>Demo</b></h1>
 
 ![Demo GIF](https://github.com/DuyT1notFum/Ecommerce/blob/main/demo-1.gif)
+
 ![Demo GIF](https://github.com/DuyT1notFum/Ecommerce/blob/main/demo-2.gif)
 
 
