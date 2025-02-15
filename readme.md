@@ -13,7 +13,7 @@ Do chưa xác thực domains trên resend nên em dùng tài khoản email đã 
 
 <h1><b>Demo 2</b></h1>
 
-![Demo GIF](https://github.com/DuyT1notFum/Ecommerce/blob/main/demo-2.gif)
+![Demo GIF](https://github.com/DuyT1notFum/Project-Ecommerce/blob/main/demo-2.gif)
 
 
 
